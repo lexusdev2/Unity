@@ -1,0 +1,4 @@
+name: unity
+version: '${project.version}'
+main: com.unitverse.com.Unity
+api-version: '1.20'
